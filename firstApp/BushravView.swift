@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct bushra: View {
+struct BushraView: View {
     var body: some View {
         VStack {
             Image("Yoshitomo-Nara-Miss-Moonlight-Yoshitomo-Nara-1")
@@ -34,5 +34,5 @@ struct bushra: View {
 }
 
 #Preview {
-    bushra()
+    BushraView()
 }
